@@ -1,4 +1,4 @@
-# Htmlbase2
+# Htmlbase_2
 Идея дизайна: Справочник HTML CSS (https://htmlbase.ru/)
 
 Список собственных идей и доработок:
